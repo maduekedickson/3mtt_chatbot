@@ -5,7 +5,7 @@ import time
 # Initialize Gemini Pro API
 
 # Set the API key directly
-genai.configure(api_key="AIzaSyCbknlcRQiRQ5B1JtodNeCFHJeAxYJFD0E")
+genai.configure(api_key="AIzaSyDnLRWR5q1Wdcdj1PmZXqKhuypwsrsKGb8")
 
 
 
