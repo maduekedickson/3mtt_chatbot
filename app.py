@@ -19,9 +19,9 @@ chat = model.start_chat(
 )
 
 # Streamlit App
-st.title("🌐 General Knowledge Chatbot")
+st.title("🌐 General Knowledge Chatbot 🌐")
 
-st.text("3mtt capstone project")
+st.text("capstone project")
 
 # Input Section
 user_input = st.text_input("Type your question below and press Enter:")
@@ -32,7 +32,7 @@ response_placeholder = st.empty()
 if user_input:
     # Display "Typing..." message
     with response_placeholder:
-        st.write("🤖 Typing...")
+        st.write("🤖 Typing...Wait a second......")
     
     # Simulate delay
     time.sleep(2)
